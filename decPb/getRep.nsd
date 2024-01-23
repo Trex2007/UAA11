@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" namespace="" author="TheRex" created="2023-11-09" changedby="TheRex" changed="2023-11-09" origin="Structorizer 3.32-11" text="&#34;getRep&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<for text="&#34;for i &#60;- 0 to taille&#34;" comment="&#34;&#34;" counterVar="i" startValue="0" endValue="taille" stepConst="1" style="COUNTER" color="ffffff" disabled="0">
+			<qFor>
+				<repeat text="&#34;until (verifrep(a))&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+					<qRepeat>
+						<instruction text="&#34;quelle est vôtre {i+1} couleur = a&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qRepeat>
+				</repeat>
+				<instruction text="&#34;rep[i] = a&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qFor>
+		</for>
+	</children>
+</root>

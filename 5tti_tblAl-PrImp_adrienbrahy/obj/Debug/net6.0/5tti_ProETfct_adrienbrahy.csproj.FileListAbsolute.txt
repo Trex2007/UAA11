@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\bin\Debug\net6.0\5tti_ProETfct_adrienbrahy.exe
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\bin\Debug\net6.0\5tti_ProETfct_adrienbrahy.deps.json
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\bin\Debug\net6.0\5tti_ProETfct_adrienbrahy.runtimeconfig.json
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\bin\Debug\net6.0\5tti_ProETfct_adrienbrahy.dll
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\bin\Debug\net6.0\5tti_ProETfct_adrienbrahy.pdb
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.dll
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\refint\5tti_ProETfct_adrienbrahy.dll
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.pdb
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\5tti_ProETfct_adrienbrahy.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\Nouveau dossier\5tti_ProETfct_adrienbrahy\obj\Debug\net6.0\ref\5tti_ProETfct_adrienbrahy.dll

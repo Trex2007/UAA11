@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\bin\Debug\net6.0\tti_exSpec_AdrienBrahy.exe
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\bin\Debug\net6.0\tti_exSpec_AdrienBrahy.deps.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\bin\Debug\net6.0\tti_exSpec_AdrienBrahy.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\bin\Debug\net6.0\tti_exSpec_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\bin\Debug\net6.0\tti_exSpec_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\refint\tti_exSpec_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\tti_exSpec_AdrienBrahy.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exSpec_AdrienBrahy\tti_exSpec_AdrienBrahy\obj\Debug\net6.0\ref\tti_exSpec_AdrienBrahy.dll

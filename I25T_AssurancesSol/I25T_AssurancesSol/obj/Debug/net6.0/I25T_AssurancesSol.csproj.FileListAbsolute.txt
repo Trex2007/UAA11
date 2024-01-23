@@ -1,0 +1,14 @@
+D:\BB\UAA11\I25T_AssurancesSol\bin\Debug\net6.0\I25T_AssurancesSol.exe
+D:\BB\UAA11\I25T_AssurancesSol\bin\Debug\net6.0\I25T_AssurancesSol.deps.json
+D:\BB\UAA11\I25T_AssurancesSol\bin\Debug\net6.0\I25T_AssurancesSol.runtimeconfig.json
+D:\BB\UAA11\I25T_AssurancesSol\bin\Debug\net6.0\I25T_AssurancesSol.dll
+D:\BB\UAA11\I25T_AssurancesSol\bin\Debug\net6.0\I25T_AssurancesSol.pdb
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.GeneratedMSBuildEditorConfig.editorconfig
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.AssemblyInfoInputs.cache
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.AssemblyInfo.cs
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.csproj.CoreCompileInputs.cache
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.dll
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\refint\I25T_AssurancesSol.dll
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.pdb
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\I25T_AssurancesSol.genruntimeconfig.cache
+D:\BB\UAA11\I25T_AssurancesSol\obj\Debug\net6.0\ref\I25T_AssurancesSol.dll

@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\bin\Debug\net6.0\5t_AdrienB_Ex1.exe
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\bin\Debug\net6.0\5t_AdrienB_Ex1.deps.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\bin\Debug\net6.0\5t_AdrienB_Ex1.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\bin\Debug\net6.0\5t_AdrienB_Ex1.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\bin\Debug\net6.0\5t_AdrienB_Ex1.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\refint\5t_AdrienB_Ex1.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\5t_AdrienB_Ex1.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\c#\5t_AdrienB_Ex1\obj\Debug\net6.0\ref\5t_AdrienB_Ex1.dll

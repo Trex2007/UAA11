@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\bin\Debug\net6.0\5tti_ExPyra_AdrienBrahy.exe
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\bin\Debug\net6.0\5tti_ExPyra_AdrienBrahy.deps.json
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\bin\Debug\net6.0\5tti_ExPyra_AdrienBrahy.runtimeconfig.json
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\bin\Debug\net6.0\5tti_ExPyra_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\bin\Debug\net6.0\5tti_ExPyra_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\refint\5tti_ExPyra_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\5tti_ExPyra_AdrienBrahy.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\5tti_ExPyra_AdrienBrahy\5tti_ExPyra_AdrienBrahy\obj\Debug\net6.0\ref\5tti_ExPyra_AdrienBrahy.dll

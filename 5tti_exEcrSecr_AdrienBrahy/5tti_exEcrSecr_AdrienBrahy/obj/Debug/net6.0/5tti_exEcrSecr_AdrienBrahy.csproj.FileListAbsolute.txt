@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\bin\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.exe
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\bin\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.deps.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\bin\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\bin\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\bin\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\refint\5tti_exEcrSecr_AdrienBrahy.dll
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.pdb
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\5tti_exEcrSecr_AdrienBrahy.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\_cours\5t\cours UAA11\5tti_exEcrSecr_AdrienBrahy\5tti_exEcrSecr_AdrienBrahy\obj\Debug\net6.0\ref\5tti_exEcrSecr_AdrienBrahy.dll

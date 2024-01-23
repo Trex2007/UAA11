@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="TheRex" created="2024-01-09" changedby="TheRex" changed="2024-01-09" origin="Structorizer 3.32-11" text="&#34;shell&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;ecart = t.lenght&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<repeat text="&#34;until (ecart == 1)&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+			<qRepeat>
+				<instruction text="&#34;ecart = ecart / 2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+				<repeat text="&#34;until (swp == true)&#34;" comment="" color="ffffff" disabled="0">
+					<qRepeat>
+						<instruction text="&#34;swp = false&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+						<for text="&#34;for i &#60;- 0 tant que i &#60;= t.lenght - ecart&#34;" comment="" counterVar="i" startValue="0 tant que i &#60;= t.lenght - ecart" stepConst="1" style="FREETEXT" color="ffffff" disabled="0">
+							<qFor>
+								<alternative text="&#34;t[i] &#62; t[i+ecart]&#34;" comment="" color="ffffff" disabled="0">
+									<qTrue>
+										<instruction text="&#34;swap = t[i]&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+										<instruction text="&#34;t[i] = t[i+ecart]&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+										<instruction text="&#34;t[i+ecart] = swap&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+										<instruction text="&#34;swp = true&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+									</qTrue>
+									<qFalse color="ffffff">
+									</qFalse>
+								</alternative>
+							</qFor>
+						</for>
+					</qRepeat>
+				</repeat>
+			</qRepeat>
+		</repeat>
+	</children>
+</root>
