@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\bin\Debug\net6.0\5Ti_appMatrice_AdrienB.exe
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\bin\Debug\net6.0\5Ti_appMatrice_AdrienB.deps.json
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\bin\Debug\net6.0\5Ti_appMatrice_AdrienB.runtimeconfig.json
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\bin\Debug\net6.0\5Ti_appMatrice_AdrienB.dll
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\bin\Debug\net6.0\5Ti_appMatrice_AdrienB.pdb
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.dll
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\refint\5Ti_appMatrice_AdrienB.dll
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.pdb
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\5Ti_appMatrice_AdrienB.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\5Ti_appMatrice_AdrienB\obj\Debug\net6.0\ref\5Ti_appMatrice_AdrienB.dll
