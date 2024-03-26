@@ -55,7 +55,7 @@ namespace _5TI_Tri2024_AdrienBrahy
         }
         public void matrAdd(int[,]  matriceOne, int[,]  matriceTwo, out int[,]  matriceRes)
         {
-            matriceRes = null;
+            matriceRes = new int[matriceOne.GetLength(0),matriceOne.GetLength(1)];
             if (matriceOne.GetLength(0) == matriceTwo.GetLength(0) && matriceOne.GetLength(1) == matriceTwo.GetLength(1))
             {
                 for (int i = 0; i < matriceOne.GetLength(0); i++)
