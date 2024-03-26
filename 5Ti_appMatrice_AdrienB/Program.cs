@@ -54,6 +54,7 @@ namespace _5Ti_appMatrice_AdrienB
                 }
 
                 outilPro.matrConc(matriceRes, out mess);
+                Console.WriteLine(mess);
 
                 //demande de reprise
                 Console.WriteLine("\nvoulez-vous recommencez 'O' = oui");
