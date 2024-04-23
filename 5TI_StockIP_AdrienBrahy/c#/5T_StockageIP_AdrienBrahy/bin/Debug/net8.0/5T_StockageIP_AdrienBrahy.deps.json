@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5T_StockageIP_AdrienBrahy/1.0.0": {
+        "runtime": {
+          "5T_StockageIP_AdrienBrahy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5T_StockageIP_AdrienBrahy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
